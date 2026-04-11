@@ -1,7 +1,7 @@
-# Hi there, I'm Shiva Prasad! 👋
+<h1 align="center">Welcome to my Digital Space! 🚀</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&animation=fadeIn" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Shiva+Prasad;Welcome+to+my+Profile;CS+Student+at+GCEK" alt="Typing Animation" />
 </p>
 
 ## 💫 About Me
