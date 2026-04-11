@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 - 🎓 **First Year CS Student** at Government College of Engineering, Kannur (GCEK).
-- 🌱 I’m currently strengthening my foundation in **Data Structures and Algorithms**.
+- 🌱 I'm currently strengthening my foundation in **Data Structures and Algorithms**.
 - 💻 Practicing problem solving in **C, C++, and Python**.
 - 🌐 Exploring the world of Web Development with **HTML, CSS, and JavaScript**.
 - 💬 Ask me about: Starting a CS journey or life at GCEK.
@@ -15,6 +15,7 @@
 ---
 
 ## 🛠️ Tech Stack & Tools
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,vscode,git,github,windows,ubuntu" alt="My Skills" />
@@ -24,6 +25,7 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivaprasadkt&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaprasadkt&layout=compact&theme=radical" alt="Top Languages" height="150" />
@@ -31,9 +33,22 @@
 
 ---
 
-## 🐍 Snake Contribution Map
+## 🔥 Streak Stats
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shivaprasadkt/shivaprasadkt/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://streak-stats.demolab.com?user=shivaprasadkt&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Snake Contribution Map
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivaprasadkt/shivaprasadkt/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivaprasadkt/shivaprasadkt/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/shivaprasadkt/shivaprasadkt/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <p align="center">
