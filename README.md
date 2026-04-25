@@ -10,7 +10,7 @@
 - 💻 Practicing problem solving in **C, C++, and Python**.
 - 🌐 Exploring the world of Web Development with **HTML, CSS, and JavaScript**.
 - 💬 Ask me about: Starting a CS journey or life at GCEK.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shiva-prasad-k-thamban-45ba2137b/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shiva-prasad-k-thamban)
 
 ---
 
