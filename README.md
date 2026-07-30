@@ -5,7 +5,7 @@
 </p>
 
 ## 💫 About Me
-- 🎓 **First Year CS Student** at Government College of Engineering, Kannur (GCEK).
+- 🎓 **Second Year CS Student** at Government College of Engineering, Kannur (GCEK).
 - 🌱 I'm currently strengthening my foundation in **Data Structures and Algorithms**.
 - 💻 Practicing problem solving in **C, C++, and Python**.
 - 🌐 Exploring the world of Web Development with **HTML, CSS, and JavaScript**.
